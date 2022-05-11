@@ -1,4 +1,4 @@
-package com.ivoronline.springboot_filter_exception;
+package com.ivoronline.springboot_filter_exception.filters;
 
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;

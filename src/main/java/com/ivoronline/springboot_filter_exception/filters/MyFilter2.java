@@ -1,4 +1,4 @@
-package com.ivoronline.springboot_filter_exception;
+package com.ivoronline.springboot_filter_exception.filters;
 
 import java.io.EOFException;
 import java.io.IOException;
